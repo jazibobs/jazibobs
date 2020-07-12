@@ -1,4 +1,3 @@
-# Jared Rigby - jazibobs
 I am a computer science teacher and web developer currently living and working in China. 
 
 ## What I do
