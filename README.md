@@ -6,5 +6,5 @@
 
 ## Get in touch
 - Feel free to ask me about HTML, CSS, JavaScript, Python3 and WordPress/PHP
-- LinkedIn: https://www.linkedin.com/jaredgrigby
+- LinkedIn: https://www.linkedin.com/in/jaredgrigby/
 - Personal site: https://www.jaredrigby.co.uk/
