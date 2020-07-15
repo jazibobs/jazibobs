@@ -9,4 +9,4 @@
 - LinkedIn: https://www.linkedin.com/in/jaredgrigby/
 - Personal site: https://www.jaredrigby.co.uk/
 
-<img width="75" height="75" src="m+l.gif" alt="Mario and Luigi dancing gif">
+<img width="75" height="75" src="https://raw.githubusercontent.com/jazibobs/jazibobs/master/m%2Bl.gif" alt="Mario and Luigi dancing gif">
