@@ -5,5 +5,6 @@
 
 ## Where to find me:
 - LinkedIn: https://www.linkedin.com/in/jaredgrigby/
-- Twitter: [@jazibobs](https://www.twitter.com/jazibobs)
+- ~~Twitter: [@jazibobs](https://www.twitter.com/jazibobs)~~
+- Bluesky: [@jazibobs.bsky.social](https://bsky.app/profile/jazibobs.bsky.social)
 - Personal site: https://www.jaredrigby.co.uk/
