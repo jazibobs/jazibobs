@@ -6,5 +6,5 @@
 ## Where to find me:
 - LinkedIn: https://www.linkedin.com/in/jaredgrigby/
 - ~~Twitter: [@jazibobs](https://www.twitter.com/jazibobs)~~
-- Bluesky: [@gameful.dev](https://bsky.app/profile/gameful.dev)
+- Bluesky: [@jaredrigby.co.uk](https://bsky.app/profile/jaredrigby.co.uk)
 - Personal site: https://www.jaredrigby.co.uk/
